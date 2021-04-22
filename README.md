@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nicolas-AMOUSSOUVI
-- 👀 I’m interested in Data science, Psychologie and Brazilian Jiu-Jitsu
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Data science project: Health and Energy
+- 👀 I’m interested in Data science, Psychology and Brazilian Jiu-Jitsu
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data science project specificaly health and energy related
 - 📫 How to reach me https://www.linkedin.com/in/nicolas-amoussouvi/
 
 <!---
